@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Mulish", sans-serif;
+}
+.dashboard{
+    height: 50px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.button #btn{
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 200px;
+    height: 28px;
+    cursor: pointer;   
+}
+table{
+    border : 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 30px;    
+}
+tr td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+}
+.table {
+    margin: 20px;
+  }
+input {
+    height: 30px;
+    width: 150px;
+    padding: 10px;
+  }
+  
+  .savebtn {
+    height: 30px;
+    width: 60px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+  }
